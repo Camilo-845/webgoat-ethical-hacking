@@ -2,12 +2,16 @@
 node_modules/
 npm-debug.log*
 
-# WebGoat source (demasiado grande para repo académico — incluir solo diffs/parches)
+# WebGoat source — solo incluir fuentes relevantes mitigados
 webgoat-source/target/
 webgoat-source/.mvn/
 *.class
 *.jar
 *.war
+# Permitir explícitamente los fuentes mitigados
+!webgoat-source/src/main/java/org/owasp/webgoat/lessons/sqlinjection/
+!webgoat-source/src/main/java/org/owasp/webgoat/lessons/xss/
+!webgoat-source/src/test/
 
 # Sistema
 .DS_Store
