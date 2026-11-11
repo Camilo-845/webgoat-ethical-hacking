@@ -1,0 +1,5 @@
+FROM eclipse-temurin:25-jdk
+WORKDIR /aplicacion
+COPY webgoat-source/target/webgoat-2026.6-SNAPSHOT.jar webgoat.jar
+EXPOSE 8080 9090
+ENTRYPOINT ["java", "-jar", "webgoat.jar"]

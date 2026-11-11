@@ -1,0 +1,13 @@
+services:
+  webgoat-mitigado:
+    build:
+      context: .
+      dockerfile: Dockerfile.mitigado
+    container_name: webgoat-mitigado
+    environment:
+      WEBGOAT_HOST: 0.0.0.0
+      WEBWOLF_HOST: 0.0.0.0
+    ports:
+      - "127.0.0.1:8081:8080"
+      - "127.0.0.1:9091:9090"
+    restart: "no"
