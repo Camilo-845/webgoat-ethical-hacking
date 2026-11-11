@@ -1,0 +1,359 @@
+[
+  {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "search",
+    "id": "search",
+    "value": "",
+    "placeholder": "Search lesson"
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "name": "",
+    "id": "webwolf-button",
+    "value": ""
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "name": "",
+    "id": "user-menu",
+    "value": ""
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "name": "",
+    "id": "lang-button",
+    "value": ""
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "name": "",
+    "id": "mailbox-button",
+    "value": ""
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "name": "",
+    "id": "report-card-button",
+    "value": ""
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "name": "",
+    "id": "about-button",
+    "value": ""
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "name": "",
+    "id": "",
+    "value": ""
+  },
+  {
+    "tag": "BUTTON",
+    "type": "submit",
+    "name": "",
+    "id": "show-hints-button",
+    "value": ""
+  },
+  {
+    "tag": "BUTTON",
+    "type": "submit",
+    "name": "",
+    "id": "restart-lesson-button",
+    "value": ""
+  },
+  {
+    "tag": "INPUT",
+    "type": "checkbox",
+    "name": "checkboxAttack1",
+    "id": "",
+    "value": "on",
+    "placeholder": ""
+  },
+  {
+    "tag": "INPUT",
+    "type": "submit",
+    "name": "answer",
+    "id": "",
+    "value": "Submit",
+    "placeholder": ""
+  },
+  {
+    "tag": "INPUT",
+    "type": "number",
+    "name": "QTY1",
+    "id": "",
+    "value": "1",
+    "placeholder": ""
+  },
+  {
+    "tag": "INPUT",
+    "type": "number",
+    "name": "QTY2",
+    "id": "",
+    "value": "1",
+    "placeholder": ""
+  },
+  {
+    "tag": "INPUT",
+    "type": "number",
+    "name": "QTY3",
+    "id": "",
+    "value": "1",
+    "placeholder": ""
+  },
+  {
+    "tag": "INPUT",
+    "type": "number",
+    "name": "QTY4",
+    "id": "",
+    "value": "1",
+    "placeholder": ""
+  },
+  {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "field1",
+    "id": "",
+    "value": "4128 3214 0002 1999",
+    "placeholder": ""
+  },
+  {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "field2",
+    "id": "",
+    "value": "111",
+    "placeholder": ""
+  },
+  {
+    "tag": "INPUT",
+    "type": "submit",
+    "name": "SUBMIT",
+    "id": "",
+    "value": "Purchase",
+    "placeholder": ""
+  },
+  {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "DOMTestRoute",
+    "id": "",
+    "value": "",
+    "placeholder": ""
+  },
+  {
+    "tag": "INPUT",
+    "type": "submit",
+    "name": "SubmitTestRoute",
+    "id": "",
+    "value": "Submit",
+    "placeholder": ""
+  },
+  {
+    "tag": "INPUT",
+    "type": "text",
+    "name": "successMessage",
+    "id": "",
+    "value": "",
+    "placeholder": ""
+  },
+  {
+    "tag": "INPUT",
+    "type": "submit",
+    "name": "submitMessage",
+    "id": "",
+    "value": "Submit",
+    "placeholder": ""
+  },
+  {
+    "tag": "INPUT",
+    "type": "radio",
+    "name": "question_0_solution",
+    "id": "question_0_1_input",
+    "value": "Solution 1: Yes, they are safe because the browser checks the code before executing.",
+    "placeholder": ""
+  },
+  {
+    "tag": "INPUT",
+    "type": "radio",
+    "name": "question_0_solution",
+    "id": "question_0_2_input",
+    "value": "Solution 2: Yes, because Google has got an algorithm that blocks malicious code.",
+    "placeholder": ""
+  },
+  {
+    "tag": "INPUT",
+    "type": "radio",
+    "name": "question_0_solution",
+    "id": "question_0_3_input",
+    "value": "Solution 3: No, because the script that is executed will break through the defense algorithm of the browser.",
+    "placeholder": ""
+  },
+  {
+    "tag": "INPUT",
+    "type": "radio",
+    "name": "question_0_solution",
+    "id": "question_0_4_input",
+    "value": "Solution 4: No, because the browser trusts the website if it is acknowledged trusted, then the browser does not know that the script is malicious.",
+    "placeholder": ""
+  },
+  {
+    "tag": "INPUT",
+    "type": "radio",
+    "name": "question_1_solution",
+    "id": "question_1_1_input",
+    "value": "Solution 1: When malicious scripts are injected into a website's server-side code.",
+    "placeholder": ""
+  },
+  {
+    "tag": "INPUT",
+    "type": "radio",
+    "name": "question_1_solution",
+    "id": "question_1_2_input",
+    "value": "Solution 2: When a user submits sensitive information without encryption.",
+    "placeholder": ""
+  },
+  {
+    "tag": "INPUT",
+    "type": "radio",
+    "name": "question_1_solution",
+    "id": "question_1_3_input",
+    "value": "Solution 3: When a website fails to validate or sanitize user input, allowing malicious scripts to be executed in a user's browser.",
+    "placeholder": ""
+  },
+  {
+    "tag": "INPUT",
+    "type": "radio",
+    "name": "question_1_solution",
+    "id": "question_1_4_input",
+    "value": "Solution 4: When a website uses outdated SSL/TLS protocols.",
+    "placeholder": ""
+  },
+  {
+    "tag": "INPUT",
+    "type": "radio",
+    "name": "question_2_solution",
+    "id": "question_2_1_input",
+    "value": "Solution 1: The script is permanently stored on the server and the victim gets the malicious script when requesting information from the server.",
+    "placeholder": ""
+  },
+  {
+    "tag": "INPUT",
+    "type": "radio",
+    "name": "question_2_solution",
+    "id": "question_2_2_input",
+    "value": "Solution 2: The script stores itself on the computer of the victim and executes locally the malicious code.",
+    "placeholder": ""
+  },
+  {
+    "tag": "INPUT",
+    "type": "radio",
+    "name": "question_2_solution",
+    "id": "question_2_3_input",
+    "value": "Solution 3: The script stores a virus on the computer of the victim. The attacker can perform various actions now.",
+    "placeholder": ""
+  },
+  {
+    "tag": "INPUT",
+    "type": "radio",
+    "name": "question_2_solution",
+    "id": "question_2_4_input",
+    "value": "Solution 4: The script is stored in the browser and sends information to the attacker.",
+    "placeholder": ""
+  },
+  {
+    "tag": "INPUT",
+    "type": "radio",
+    "name": "question_3_solution",
+    "id": "question_3_1_input",
+    "value": "Solution 1: Reflected attacks reflect malicious code from the database to the web server and then reflect it back to the user.",
+    "placeholder": ""
+  },
+  {
+    "tag": "INPUT",
+    "type": "radio",
+    "name": "question_3_solution",
+    "id": "question_3_2_input",
+    "value": "Solution 2: They reflect the injected script off the web server. That occurs when input sent to the web server is part of the response.",
+    "placeholder": ""
+  },
+  {
+    "tag": "INPUT",
+    "type": "radio",
+    "name": "question_3_solution",
+    "id": "question_3_3_input",
+    "value": "Solution 3: Reflected attacks reflect from the firewall off to the database where the user requests information from.",
+    "placeholder": ""
+  },
+  {
+    "tag": "INPUT",
+    "type": "radio",
+    "name": "question_3_solution",
+    "id": "question_3_4_input",
+    "value": "Solution 4: Reflected XSS is an attack where the injected script is reflected off the database and web server to the user.",
+    "placeholder": ""
+  },
+  {
+    "tag": "INPUT",
+    "type": "radio",
+    "name": "question_4_solution",
+    "id": "question_4_1_input",
+    "value": "Solution 1: Yes, you can only make use of tags through JavaScript.",
+    "placeholder": ""
+  },
+  {
+    "tag": "INPUT",
+    "type": "radio",
+    "name": "question_4_solution",
+    "id": "question_4_2_input",
+    "value": "Solution 2: Yes, otherwise you cannot steal cookies.",
+    "placeholder": ""
+  },
+  {
+    "tag": "INPUT",
+    "type": "radio",
+    "name": "question_4_solution",
+    "id": "question_4_3_input",
+    "value": "Solution 3: No, there is ECMAScript too.",
+    "placeholder": ""
+  },
+  {
+    "tag": "INPUT",
+    "type": "radio",
+    "name": "question_4_solution",
+    "id": "question_4_4_input",
+    "value": "Solution 4: No, there are many other ways. Like HTML, Flash or any other type of code that the browser executes.",
+    "placeholder": ""
+  },
+  {
+    "tag": "INPUT",
+    "type": "submit",
+    "name": "Quiz_solutions",
+    "id": "",
+    "value": "Submit answers",
+    "placeholder": ""
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "name": "",
+    "id": "",
+    "value": ""
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "name": "",
+    "id": "",
+    "value": ""
+  }
+]

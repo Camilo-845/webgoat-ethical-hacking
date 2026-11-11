@@ -1,0 +1,290 @@
+[
+  {
+    "text": "WebGoat",
+    "href": "http://127.0.0.1:8080/WebGoat/welcome.mvc"
+  },
+  {
+    "text": "Logout",
+    "href": "http://127.0.0.1:8080/WebGoat/logout"
+  },
+  {
+    "text": "User: user123",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#"
+  },
+  {
+    "text": "Role:\n                        User",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#"
+  },
+  {
+    "text": "Version: \n                        2026.5",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#"
+  },
+  {
+    "text": "Build:",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#"
+  },
+  {
+    "text": "English",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?lang=en#lesson/WebGoatIntroduction.lesson"
+  },
+  {
+    "text": "Deutsch",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?lang=de#lesson/WebGoatIntroduction.lesson"
+  },
+  {
+    "text": "Français",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?lang=fr#lesson/WebGoatIntroduction.lesson"
+  },
+  {
+    "text": "Nederlands",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?lang=nl#lesson/WebGoatIntroduction.lesson"
+  },
+  {
+    "text": "Español",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?lang=es#lesson/WebGoatIntroduction.lesson"
+  },
+  {
+    "text": "Introduction",
+    "href": ""
+  },
+  {
+    "text": "WebGoat",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#lesson/WebGoatIntroduction.lesson"
+  },
+  {
+    "text": "WebWolf",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#lesson/WebWolfIntroduction.lesson"
+  },
+  {
+    "text": "General",
+    "href": ""
+  },
+  {
+    "text": "HTTP Basics",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#lesson/HttpBasics.lesson"
+  },
+  {
+    "text": "HTTP Proxies",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#lesson/HttpProxies.lesson"
+  },
+  {
+    "text": "Developer Tools",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#lesson/ChromeDevTools.lesson"
+  },
+  {
+    "text": "CIA Triad",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#lesson/CIA.lesson"
+  },
+  {
+    "text": "Writing new lesson",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#lesson/LessonTemplate.lesson"
+  },
+  {
+    "text": "Open Redirect Vulnerabilities",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#lesson/OpenRedirect.lesson"
+  },
+  {
+    "text": "(A1) Broken Access Control",
+    "href": ""
+  },
+  {
+    "text": "Hijack a session",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#lesson/HijackSession.lesson"
+  },
+  {
+    "text": "Insecure Direct Object References",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#lesson/IDOR.lesson"
+  },
+  {
+    "text": "Missing Function Level Access Control",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#lesson/MissingFunctionAC.lesson"
+  },
+  {
+    "text": "Spoofing an Authentication Cookie",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#lesson/SpoofCookie.lesson"
+  },
+  {
+    "text": "(A2) Cryptographic Failures",
+    "href": ""
+  },
+  {
+    "text": "Crypto Basics",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#lesson/Cryptography.lesson"
+  },
+  {
+    "text": "Password Storage",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#lesson/PasswordStorage.lesson"
+  },
+  {
+    "text": "Timing Attacks",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#lesson/TimingAttacks.lesson"
+  },
+  {
+    "text": "(A3) Injection",
+    "href": ""
+  },
+  {
+    "text": "SQL Injection (intro)",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#lesson/SqlInjection.lesson"
+  },
+  {
+    "text": "SQL Injection (advanced)",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#lesson/SqlInjectionAdvanced.lesson"
+  },
+  {
+    "text": "SQL Injection (mitigation)",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#lesson/SqlInjectionMitigations.lesson"
+  },
+  {
+    "text": "Cross Site Scripting",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#lesson/CrossSiteScripting.lesson"
+  },
+  {
+    "text": "Cross Site Scripting (stored)",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#lesson/CrossSiteScriptingStored.lesson"
+  },
+  {
+    "text": "Cross Site Scripting (mitigation)",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#lesson/CrossSiteScriptingMitigation.lesson"
+  },
+  {
+    "text": "Command Injection",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#lesson/CommandInjection.lesson"
+  },
+  {
+    "text": "Path traversal",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#lesson/PathTraversal.lesson"
+  },
+  {
+    "text": "(A5) Security Misconfiguration",
+    "href": ""
+  },
+  {
+    "text": "Cross-Site Request Forgeries",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#lesson/CSRF.lesson"
+  },
+  {
+    "text": "Security Misconfiguration",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#lesson/SecurityMisconfiguration.lesson"
+  },
+  {
+    "text": "XXE",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#lesson/XXE.lesson"
+  },
+  {
+    "text": "(A6) Vuln & Outdated Components",
+    "href": ""
+  },
+  {
+    "text": "Vulnerable Components",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#lesson/VulnerableComponents.lesson"
+  },
+  {
+    "text": "(A7) Identity & Auth Failure",
+    "href": ""
+  },
+  {
+    "text": "Authentication Bypasses",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#lesson/AuthBypass.lesson"
+  },
+  {
+    "text": "HTTP Parameter Pollution",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#lesson/HttpParameterPollution.lesson"
+  },
+  {
+    "text": "Insecure Login",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#lesson/InsecureLogin.lesson"
+  },
+  {
+    "text": "JWT tokens",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#lesson/JWT.lesson"
+  },
+  {
+    "text": "Password reset",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#lesson/PasswordReset.lesson"
+  },
+  {
+    "text": "Secure Passwords",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#lesson/SecurePasswords.lesson"
+  },
+  {
+    "text": "(A8) Software & Data Integrity",
+    "href": ""
+  },
+  {
+    "text": "Insecure Deserialization",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#lesson/InsecureDeserialization.lesson"
+  },
+  {
+    "text": "(A9) Security Logging Failures",
+    "href": ""
+  },
+  {
+    "text": "Logging Security",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#lesson/LogSpoofing.lesson"
+  },
+  {
+    "text": "(A10) Server-side Request Forgery",
+    "href": ""
+  },
+  {
+    "text": "Server-Side Request Forgery",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#lesson/SSRF.lesson"
+  },
+  {
+    "text": "Client side",
+    "href": ""
+  },
+  {
+    "text": "Bypass front-end restrictions",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#lesson/BypassRestrictions.lesson"
+  },
+  {
+    "text": "Client side filtering",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#lesson/ClientSideFiltering.lesson"
+  },
+  {
+    "text": "HTML tampering",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#lesson/HtmlTampering.lesson"
+  },
+  {
+    "text": "Security exercises",
+    "href": ""
+  },
+  {
+    "text": "WebGoat security exercises",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#lesson/ChallengeIntro.lesson"
+  },
+  {
+    "text": "Admin lost password",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#lesson/Challenge1.lesson"
+  },
+  {
+    "text": "Partner feed recovery",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#lesson/Challenge2.lesson"
+  },
+  {
+    "text": "Without password",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#lesson/Challenge5.lesson"
+  },
+  {
+    "text": "Admin password reset",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#lesson/Challenge7.lesson"
+  },
+  {
+    "text": "Without account",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#lesson/Challenge8.lesson"
+  },
+  {
+    "text": "1",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#lesson/WebGoatIntroduction.lesson/0"
+  },
+  {
+    "text": "2",
+    "href": "http://127.0.0.1:8080/WebGoat/start.mvc?username=user123#lesson/WebGoatIntroduction.lesson/1"
+  },
+  {
+    "text": "homepage",
+    "href": "https://webgoat.org/"
+  }
+]

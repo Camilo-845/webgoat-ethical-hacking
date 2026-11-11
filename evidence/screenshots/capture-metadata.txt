@@ -1,0 +1,4 @@
+Captura: 2026-11-11T18:09:19.743Z
+URL: http://127.0.0.1:8080/WebGoat
+Usuario: user123
+Contraseña: no almacenada
